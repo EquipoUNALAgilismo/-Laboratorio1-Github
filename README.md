@@ -1,4 +1,4 @@
-# Laboratorio1 Github
+# Laboratorio1 GitHub
 
 Laboratorio creado con el fin de poner en practica los ejericicios de trabajo colaborativo en desarrollo de software
 
