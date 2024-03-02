@@ -4,4 +4,10 @@ public class MathFunctios{
 
         return NumberA + NumberB;
     }
+
+    public static int MulNumber(Int NumberA, int NumberB) {
+
+        return NumberA * NumberB;
+    }
+
 }
