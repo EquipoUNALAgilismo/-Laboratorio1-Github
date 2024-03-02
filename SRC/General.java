@@ -1,13 +1,13 @@
 public class MathFunctios{
 
-    public static int sumNumber(Int NumberA, int NumberB) {
+    public static int sumNumber(int NumberA, int NumberB) {
 
         return NumberA + NumberB;
     }
 
-    public static int MulNumber(Int NumberA, int NumberB) {
+    public static int SubNumber(int NumberA, int NumberB) {
 
-        return NumberA * NumberB;
+        return NumberA - NumberB;
     }
 
 }
